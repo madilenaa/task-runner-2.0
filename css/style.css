@@ -1,0 +1,43 @@
+.menu {
+  color: gold;
+  font-family: cursive;
+}
+
+.nabbar-nav li {
+  padding-left: 100px;
+}
+
+.menu-background {
+  background: transparent;
+}
+
+.row img {
+  height: 300px;
+  width: 300px;
+}
+
+.page-footer {
+  padding: 48px 0;
+  text-align: center;
+}
+
+.page-footer li {
+  font-size: 0;
+  font-size: 0;
+  display: inline;
+  transform: scale(1.2, 1.2);
+  margin-left: 10px;
+}
+
+.page-footer i {
+  font-size: 30px;
+  background: #c0392b;
+  width: 60px;
+  height: 60px;
+  color: #ffffff;
+  border-radius: 50%;
+  -ms-flex-pack: center;
+      justify-content: center;
+  line-height: 60px;
+}
+/*# sourceMappingURL=style.css.map */
